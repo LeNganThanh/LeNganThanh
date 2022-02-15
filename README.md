@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeNganThanh
+- 👋 Hi, I’m Le Ngan Thanh - Le is my family name - Ngan is the middle name and just call me Thanh.
 - 👀 I’m interested in programming. 
 - 🌱 I’m currently learning Web Dev at DCi.
 
