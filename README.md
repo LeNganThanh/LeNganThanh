@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Le Ngan Thanh - Le is my family name - Ngan is the middle name - just call me Thanh.
-- ✨ My favorite color is white.
-- ✨ I love my mother tongue :D
+-  :snowflake: My favorite color is white.
+- :zap: I love my mother tongue :D
 - 👀 I’m interested in programming. 
 - 🌱 I’m currently learning Web Dev at DCi.
 
