@@ -3,6 +3,7 @@
 - :zap: I love my mother tongue :blush:
 - 👀 I’m interested in programming. 
 - 🌱 I’m currently learning Web Dev at DCi.
+- Hop hop hop 
 
 
 <!---
